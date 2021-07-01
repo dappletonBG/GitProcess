@@ -26,6 +26,7 @@
 	</types>
 	<types>
 		<members>TIDM_Reservation_Request__c.Contact__c</members>
+		<members>TIDM_Reservation_Request__c.Message__c</members>
 		<name>CustomField</name>
 	</types>
 	<types>
